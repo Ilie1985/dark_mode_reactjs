@@ -69,3 +69,16 @@ Navbar
 .post-info span {
   margin-right: 0.5rem;
 }
+
+.btn {
+  background: var(--clr-primary);
+  color: var(--clr-bcg);
+  padding: 0.25rem 0.5rem;
+  border-radius: 5px;
+  border-color: transparent;
+  text-transform: capitalize;
+  transition: all 0.3s linear;
+  font-weight: bold;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
