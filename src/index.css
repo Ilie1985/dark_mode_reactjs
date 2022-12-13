@@ -46,3 +46,9 @@ Navbar
   text-transform: capitalize;
   letter-spacing: 2px;
 }
+.articles {
+  padding: 5rem 0;
+  width: 90vw;
+  max-width: 600px;
+  margin: 0 auto;
+}
